@@ -29,4 +29,8 @@ Learn more about how Ordernyms was developed [here](https://drive.google.com/fil
   <img src="/Character Icons/Player 1 Faceoff.png" width="100" />
   <img src="/Character Icons/Player 2 Awaiting.png" width="100" />
   <img src="/Character Icons/Player 1 Faceoff.png" width="100" />
+  <img src="/Character Icons/Player 2 Awaiting.png" width="100" />
+  <img src="/Character Icons/Player 1 Neutral.png" width="100" />
+  <img src="/Character Icons/Player 2 Win.png" width="100" />
+  <img src="/Character Icons/Player 1 Worried.png" width="100" />
 </p>
